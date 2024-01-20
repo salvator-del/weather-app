@@ -5,5 +5,5 @@
 ![weather2](https://github.com/salvator-del/weather-app/assets/65698466/1ca946a5-4147-456e-b948-88b0c73c73c4)
 
 ![weather3](https://github.com/salvator-del/weather-app/assets/65698466/e255840b-42cb-43e9-abde-6fb4a83b4b8f)
-#Live Demo
+# Live Demo:
 salvator-weather-app.netlify.app
